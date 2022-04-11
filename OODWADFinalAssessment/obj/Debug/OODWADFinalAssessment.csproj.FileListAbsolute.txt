@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\bin\Debug\OODWADFinalAssessment.exe.config
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\bin\Debug\OODWADFinalAssessment.exe
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\bin\Debug\OODWADFinalAssessment.pdb
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.Form1.resources
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.Properties.Resources.resources
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.exe
+C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.pdb
