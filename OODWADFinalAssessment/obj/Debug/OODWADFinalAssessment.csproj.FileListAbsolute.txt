@@ -8,3 +8,14 @@ C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj
 C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.exe
 C:\Users\Alex\Desktop\New folder\OODWADFinalAssessment\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.pdb
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\bin\Debug\OODWADFinalAssessment.exe.config
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\bin\Debug\OODWADFinalAssessment.exe
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\bin\Debug\OODWADFinalAssessment.pdb
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.AssemblyReference.cache
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.SuggestedBindingRedirects.cache
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.Form1.resources
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.Properties.Resources.resources
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.GenerateResource.cache
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.csproj.CoreCompileInputs.cache
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.exe
+D:\Work\GItHub\kidsSP-shoppingplayroom\OODWADFinalAssessment\obj\Debug\OODWADFinalAssessment.pdb

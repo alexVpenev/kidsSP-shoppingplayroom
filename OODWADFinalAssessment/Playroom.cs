@@ -10,6 +10,7 @@ namespace OODWADFinalAssessment
     {
         public StayManager StayManager;
         public ProductManager ProductManager;
+        private String testing;
 
         public Playroom()
         {
